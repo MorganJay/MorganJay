@@ -21,4 +21,4 @@
 [instagram]: https://instagram.com/morgan_jayt
 [linkedin]: https://linkedin.com/in/jamesmorgan98
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MorganJay&count_private=true&show_icons=true&theme=midnight-purple)(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MorganJay&count_private=true&show_icons=true&theme=midnight-purple)
