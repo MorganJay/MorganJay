@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 🧎‍♂️
 
 <!--
-**MorganJay/MorganJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MorganJay/MorganJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+## I'm a Full Stack Software Engineer, Developer Advocate, Gamer and Anime Binger
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Payroll Solution, a large E-Commerce App and my personal website 👨‍💻
+- 🌱 I’m currently learning .NET and React Ecosystems, libraries, frameworks or technologies
+- 👯 I’m looking to collaborate on projects, code or live site reviews, anything and everything!
+- 🤔 I’m looking for help with .NET, React.js and TypeScript
+- 💬 Ask me about HTML5, CSS3, JavaScript, SQL, React.js, .NET, ....basically full stack development
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes and I love anime 🐱‍🏍
+
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[twitter]: https://twitter.com/jay__jm
+[instagram]: https://instagram.com/morgan_jayt
+[linkedin]: https://linkedin.com/in/jamesmorgan98
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MorganJay&count_private=true&show_icons=true&theme=midnight-purple)(https://github.com/anuraghazra/github-readme-stats)
