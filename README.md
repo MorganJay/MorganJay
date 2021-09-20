@@ -25,4 +25,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorganJay&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![MorganJay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Morgan_Jay)](https://github.com/anuraghazra/github-readme-stats)
+[![MorganJay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Morgan_Jay&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
