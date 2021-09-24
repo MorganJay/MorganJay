@@ -26,4 +26,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorganJay&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![MorganJay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Morgan_Jay&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MorganJay&" alt="MorganJay streak stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MorganJay&theme=midnight-purple" alt="MorganJay streak stats" /></p>
