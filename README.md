@@ -27,3 +27,5 @@
 
 [![MorganJay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Morgan_Jay&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MorganJay&theme=midnight-purple" alt="MorganJay streak stats" /></p>
+
+In 2021, I made 808 contributions and modified 2,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/MorganJay
