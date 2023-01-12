@@ -21,11 +21,9 @@
 [instagram]: https://instagram.com/morgan_jayt
 [linkedin]: https://linkedin.com/in/jamesmorgan98
 
-![MorganJay's GitHub stats](https://github-readme-stats.vercel.app/api?username=MorganJay&count_private=true&show_icons=true&theme=midnight-purple)
+<!-- ![MorganJay's GitHub stats](https://github-readme-stats.vercel.app/api?username=MorganJay&count_private=true&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorganJay&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorganJay&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![MorganJay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Morgan_Jay&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MorganJay&theme=midnight-purple" alt="MorganJay streak stats" /></p>
-
-In 2021, I made 808 contributions and modified 2,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/MorganJay
